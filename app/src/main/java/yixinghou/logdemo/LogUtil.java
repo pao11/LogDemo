@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * 日志工具类
  * 
- * @ClassName: LogUtil
+ * LogUtil
  * @author pao11 2017-6-14 上午11:12:13
  * 
  */
