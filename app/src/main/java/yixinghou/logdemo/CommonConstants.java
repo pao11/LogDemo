@@ -6,8 +6,8 @@ import java.text.SimpleDateFormat;
  * 
  * @ClassName: Config
  *   项目位置参数
- * @author wqr
- * @date 2014-11-3 下午5:25:03
+ * @author pao11
+ * @date 2017-6-3 下午5:25:03
  * 
  */
 public class CommonConstants {

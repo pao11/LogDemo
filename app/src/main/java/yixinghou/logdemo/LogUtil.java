@@ -14,7 +14,7 @@ import java.util.Date;
  * 日志工具类
  * 
  * @ClassName: LogUtil
- * @author wqr 2015-1-14 上午11:12:13
+ * @author pao11 2017-6-14 上午11:12:13
  * 
  */
 public class LogUtil {

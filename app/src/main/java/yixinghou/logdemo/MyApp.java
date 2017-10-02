@@ -11,7 +11,7 @@ import java.io.File;
 import de.mindpipe.android.logging.log4j.LogConfigurator;
 
 /**
- * Created by zhangyunfei on 15/9/9.
+ * Created by pao11 on 17/6/9.
  */
 public class MyApp extends Application {
     @Override

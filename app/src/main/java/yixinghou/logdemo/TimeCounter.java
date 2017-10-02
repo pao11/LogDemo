@@ -5,7 +5,7 @@ import android.util.Log;
 import java.util.Calendar;
 
 /**
- * Created by zhangyunfei on 15/9/8.
+ * Created by pao11 on 17/6/8.
  */
 public class TimeCounter {
     String tag;
